@@ -9,6 +9,6 @@
   "author": "Diogo Souza",
   "license": "ISC",
   "dependencies": {
-    "electron": "^7.1.9"
+    "electron": "^13.6.6"
   }
 }
